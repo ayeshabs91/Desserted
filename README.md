@@ -1,5 +1,5 @@
 # Fetch
 
 
-![simulator_screenshot_1ECD3FD2-8889-4C3B-9C2F-FAD6EEEB61CD](https://user-images.githubusercontent.com/15903927/224139416-ff72010a-d505-43ef-86b9-f312f4413c79.png)
-![simulator_screenshot_A7FB8D88-5F8A-4751-9DF1-DB274EA45BD0](https://user-images.githubusercontent.com/15903927/224139460-6adbaa09-521f-4888-af52-30909a7343b9.png)
+<img width="329" alt="Screen Shot 2023-03-09 at 1 56 55 PM" src="https://user-images.githubusercontent.com/15903927/224139630-67c85ae2-2ce4-4e53-bed1-27adf6b76604.png">
+<img width="322" alt="Screen Shot 2023-03-09 at 1 57 12 PM" src="https://user-images.githubusercontent.com/15903927/224139720-e340c6cd-d625-4f3b-a495-0d64b5a30769.png">
